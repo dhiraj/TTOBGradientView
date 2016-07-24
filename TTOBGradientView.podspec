@@ -35,3 +35,4 @@ A port of https://github.com/ole/OBGradientView to CocoaPods. The original class
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
+
