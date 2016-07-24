@@ -1,0 +1,6 @@
+framework module TTOBGradientView {
+  umbrella header "TTOBGradientView-umbrella.h"
+
+  export *
+  module * { export * }
+}

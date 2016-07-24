@@ -7,6 +7,8 @@
 //
 
 #import "TTAppDelegate.h"
+#import "OBGradientView.h"
+
 
 @implementation TTAppDelegate
 

@@ -1,0 +1,16 @@
+PODS:
+  - TTOBGradientView (0.1.0)
+
+DEPENDENCIES:
+  - TTOBGradientView (from `../`)
+
+EXTERNAL SOURCES:
+  TTOBGradientView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TTOBGradientView: feb5ebab2e0c571d75b7c41821f89854a63d65d4
+
+PODFILE CHECKSUM: a736fe3bc81753f9ede1d7c02ffee091f758c941
+
+COCOAPODS: 1.0.1
