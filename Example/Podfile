@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TTOBGradientView_Example' do
+  pod 'TTOBGradientView', :path => '../'
+
+  target 'TTOBGradientView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
